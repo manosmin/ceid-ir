@@ -14,6 +14,8 @@ This project aims to develop a powerful and intelligent search engine using Elas
 - Natural Language Processing (NLP)
 ## Tech Stack
 
+**Front End:** Python
+
 **Back End:** ElasticSearch, Python
 
 **ML Libraries:** Gensim, Word2Vec, NLTK

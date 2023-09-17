@@ -25,3 +25,23 @@ This project aims to develop a powerful and intelligent search engine using Elas
 *Query Expansion and Recommendations*</br>
 ![Query Expansion and Recommendations](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
 
+## Deployment
+
+To deploy this project run in the ElasticSearch folder
+
+```bash
+bin/elasticsearch
+```
+
+Then, run in the Kibana folder
+
+```bash
+bin/kibana
+```
+
+Finally, run the script to upload books data to ElasticSearch
+
+```bash
+python parser.py
+```
+

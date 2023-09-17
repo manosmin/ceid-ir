@@ -16,6 +16,8 @@ This project aims to develop a powerful and intelligent search engine using Elas
 
 **Back End:** ElasticSearch, Python
 
+**ML Libraries:** Gensim, Word2Vec, NLTK
+
 
 
 ## Deployment

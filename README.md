@@ -43,4 +43,4 @@ python parser.py
 ![Search Results](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
 </br>
 *Query Expansion and Recommendations*</br>
-![Query Expansion and Recommendations](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
+![Query Expansion and Recommendations](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss2.png)

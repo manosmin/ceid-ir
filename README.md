@@ -18,13 +18,6 @@ This project aims to develop a powerful and intelligent search engine using Elas
 
 
 
-## Screenshots
-*Search Results*</br>
-![Search Results](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
-</br>
-*Query Expansion and Recommendations*</br>
-![Query Expansion and Recommendations](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
-
 ## Deployment
 
 To deploy this project run in the ElasticSearch folder
@@ -45,3 +38,9 @@ Finally, run the script to upload books data to ElasticSearch
 python parser.py
 ```
 
+## Screenshots
+*Search Results*</br>
+![Search Results](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
+</br>
+*Query Expansion and Recommendations*</br>
+![Query Expansion and Recommendations](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss2.png)

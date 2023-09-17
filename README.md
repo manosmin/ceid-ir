@@ -25,13 +25,13 @@ This project aims to develop a powerful and intelligent search engine using Elas
 To deploy this project run in the ElasticSearch folder
 
 ```bash
-bin/elasticsearch
+bin/elasticsearch.bat
 ```
 
 Then, run in the Kibana folder
 
 ```bash
-bin/kibana
+bin/kibana.bat
 ```
 
 Finally, run the script to upload books data to ElasticSearch

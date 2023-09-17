@@ -19,9 +19,9 @@ This project aims to develop a powerful and intelligent search engine using Elas
 
 
 ## Screenshots
-*Search Results*
+*Search Results*</br>
 ![Search Results](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
-
-*Query Expansion and Recommendations*
+</br>
+*Query Expansion and Recommendations*</br>
 ![Query Expansion and Recommendations](https://github.com/manosmin/ceid-ir/blob/master/screenshots/ss1.png)
 

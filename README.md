@@ -9,9 +9,7 @@ This project aims to develop a powerful and intelligent search engine using Elas
 - Data Collection and Indexing
 - Integration with ElasticSearch
 - Query Expansion and Recommendations
-- Evaluation and Testing
-- Machine Learning Models
-- Natural Language Processing (NLP)
+
 ## Tech Stack
 
 **Front End:** Python
